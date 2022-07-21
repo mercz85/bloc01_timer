@@ -25,7 +25,7 @@ To do this:
 - Wrap MaterialApp with Sizer
 - see timer/widgets/waves_background.dart
 
-Animation author:
+Flare waves animation author:
  Finme
  https://flare.rive.app/a/finme/files/flare/water-adjust/preview
  
