@@ -19,6 +19,12 @@ Objective: practicing BLoC, following the tutorial project in https://bloclibrar
 Personalizations of the project:
 - Try to make the water level go down depending on the timer.
 
+To do this:
+- used packages sizer and flare_flutter
+- download .flr in assets\flares
+- Wrap MaterialApp with Sizer
+- see timer/widgets/waves_background.dart
+
 ---
 
 ## Getting Started 🚀
