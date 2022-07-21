@@ -8,10 +8,8 @@ class WavesBackground extends StatelessWidget {
   const WavesBackground({Key? key}) : super(key: key);
 
   double getWaterLevelHeight(int seconds) {
-    //max 80.h    min 0.h
+    //limits to avoid errors:  max 80.h    min 0.h
     double levelheight = seconds / 60 * 80;
-
-    //levelheight = levelheight > 80 ? 80 : levelheight;
 
     return levelheight;
   }
