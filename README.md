@@ -10,6 +10,17 @@ A Very Good Project created by Very Good CLI.
 
 ---
 
+## mecz85 NOTES
+
+Project generated with very_good_cli
+
+Objective: practicing BLoC, following the tutorial project in https://bloclibrary.dev/#/fluttertimertutorial
+
+Personalizations of the project:
+- Try to make the water level go down depending on the timer.
+
+---
+
 ## Getting Started 🚀
 
 This project contains 3 flavors:
