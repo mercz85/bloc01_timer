@@ -34,21 +34,20 @@ class WavesBackground extends StatelessWidget {
               alignment: Alignment.bottomCenter,
             ),
           ),
-          SizedBox(
+          AnimatedContainer(
             height: waterLevelHeight.h,
             width: double.infinity,
-            child: Container(
-              decoration: BoxDecoration(
-                gradient: LinearGradient(
-                  begin: Alignment.topCenter,
-                  end: Alignment.bottomCenter,
-                  colors: [
-                    Colors.blue.shade200,
-                    Colors.blue.shade600,
-                  ],
-                ),
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.topCenter,
+                end: Alignment.bottomCenter,
+                colors: [
+                  Colors.blue.shade200,
+                  Colors.blue.shade600,
+                ],
               ),
             ),
+            duration: const Duration(seconds: 1),
           ),
         ],
       ),
