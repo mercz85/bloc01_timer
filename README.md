@@ -29,6 +29,9 @@ Animation author:
  Finme
  https://flare.rive.app/a/finme/files/flare/water-adjust/preview
  
+
+https://user-images.githubusercontent.com/22273142/180264718-6f9804c2-394d-4020-8042-31cd39efde21.mp4
+ 
 ---
 
 ## Getting Started 🚀
